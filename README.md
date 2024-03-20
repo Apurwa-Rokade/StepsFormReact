@@ -1,9 +1,7 @@
 # Multistep Form
 
 ## To start a project
-git clone [https://github.com/Apurwa-Rokade/dynamic-form-generator.git \](https://github.com/Apurwa-Rokade/StepsFormReact.git)
-npm install \
-npm run dev
+git clone https://github.com/Apurwa-Rokade/dynamic-form-generator.git
 
 ## Here is the deployment link 
 https://legendary-taffy-29ca7b.netlify.app/

@@ -2,6 +2,9 @@
 
 ## To start a project
 git clone https://github.com/Apurwa-Rokade/dynamic-form-generator.git
+npm install 
+npm run dev
+
 
 ## Here is the deployment link 
 https://legendary-taffy-29ca7b.netlify.app/

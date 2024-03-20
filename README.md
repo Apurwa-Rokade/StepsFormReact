@@ -1,8 +1,8 @@
 # Multistep Form
 
 ## To start a project
-git clone https://github.com/Apurwa-Rokade/dynamic-form-generator.git
-npm install 
+git clone https://github.com/Apurwa-Rokade/dynamic-form-generator.git \
+npm install \
 npm run dev
 
 
